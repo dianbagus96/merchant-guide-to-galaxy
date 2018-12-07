@@ -75,3 +75,7 @@ glob prok Gold is 57800 Credits
 glob prok Iron is 782 Credits
 
 I have no idea what you are talking about
+
+### Logic To Solve it
+
+![alt text](https://github.com/dianbagus96/merchant-guide-to-galaxy/blob/master/flow_merchant_galaxy_logic.jpg)
